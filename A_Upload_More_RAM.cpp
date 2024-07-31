@@ -15,9 +15,9 @@ int32_t main() {
     while(tc-->0){
         ll n,k;
         cin>>n>>k;
-        ll res=(n-1)*k + 1;
-        cout<<res<<endl;
-    }    
+        ll ans=(n-1)*k +1;
+        cout<<ans<<endl;
+    }
 
 return 0;
 }
